@@ -1,0 +1,5 @@
+std = "roblox"
+
+[rules]
+shadowing = "allow"
+manual_table_clone = "allow"
